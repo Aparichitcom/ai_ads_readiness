@@ -1,0 +1,17 @@
+{
+  "project_id": "d588fe830f2b",
+  "intents": [
+    {
+      "intent": "pricing_purchase",
+      "priority": "high"
+    },
+    {
+      "intent": "informational_research",
+      "priority": "medium"
+    },
+    {
+      "intent": "demo_or_contact",
+      "priority": "medium"
+    }
+  ]
+}
